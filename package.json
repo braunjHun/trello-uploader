@@ -1,0 +1,7 @@
+{
+  "name": "trello-uploader",
+  "version": "1.0.0",
+  "description": "Trello XLS uploader",
+  "main": "index.js",
+  "license": "MIT"
+}
