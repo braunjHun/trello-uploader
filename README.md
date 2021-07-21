@@ -4,7 +4,12 @@ A small sample Power-Up for Trello ....
 
 ## Setup Prerequisites
 
-
+- npm install -g yarn (install yarn if not installed yet)
+- yarn init (create package.json)
+- yarn add -D parcel-bundler (install parcel if not installed yet)
+- edit package.jason, 
+    add: ```"scripts": {"build": "parcel build src/html/*.html"},```
+- yarn build
 
 ### NodeJS
 

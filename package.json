@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "description": "Trello XLS uploader",
   "main": "index.js",
-  "license": "MIT"
+  "repository": "git@github.com:braunjHun/trello-uploader.git",
+  "author": "Jozsef Braun <jozsef.braun@hu.ibm.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
