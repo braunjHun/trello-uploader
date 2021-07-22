@@ -10,6 +10,8 @@ A small sample Power-Up for Trello ....
 - edit package.jason, 
     add: ```"scripts": {"build": "parcel build src/html/*.html"},```
 - yarn build
+- register this github project on netlify.com -> xls-uploader-power-up.netlify.app
+- register the local power-up on: https://trello.com/power-ups/admin 
 
 ### NodeJS
 
